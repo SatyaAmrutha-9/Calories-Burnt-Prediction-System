@@ -1,3 +1,3 @@
 # Calories-Burnt-Prediction-System
 
-![alt text](output.png)
+![alt text](C:\Users\HP\Desktop\Calories\output.png)
